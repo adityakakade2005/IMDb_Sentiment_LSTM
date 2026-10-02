@@ -1,8 +1,5 @@
-# IMDb Sentiment Analysis — LSTM Reproduction
 
-A self-contained Jupyter notebook that reproduces **Varadharajan, Smith, Kalla, Samaah & Mandala (2025)**, *"Deep Learning-Based Sentiment Analysis: Enhancing IMDb Review Classification with LSTM Models"* — three classical TF-IDF baselines plus a stacked LSTM, benchmarked against the paper's reported numbers.
-
-**Notebook:** `IMDb_Sentiment_LSTM_Reproduction.ipynb`
+**Notebook:** `IMDb_Sentiment_LSTM_Reproduction(2).ipynb`
 
 ---
 
